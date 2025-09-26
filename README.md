@@ -1,2 +1,2 @@
 # PyZgred
-Zadania z Pythona na informatykę 
+Zadania z całej 3 klasy na wyciągnięcie ręki
